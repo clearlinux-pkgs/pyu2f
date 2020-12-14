@@ -4,7 +4,7 @@
 #
 Name     : pyu2f
 Version  : 0.1.5
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/29/b5/c1209e6cb77647bc2c9a6a1a953355720f34f3b006b725e303c70f3c0786/pyu2f-0.1.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/29/b5/c1209e6cb77647bc2c9a6a1a953355720f34f3b006b725e303c70f3c0786/pyu2f-0.1.5.tar.gz
 Summary  : U2F host library for interacting with a U2F device over USB.
